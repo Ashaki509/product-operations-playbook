@@ -42,7 +42,7 @@ Success is measured by both delivery velocity and business outcomes: **CLV**, **
 
 ---
 
-**Ashaki Sorrell** — Staff Technical Program Manager
+**Ashaki Sorrell** | Strategy & Operations Leader
 
 - 📧 ashaki509@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/ashakisorrell)  
